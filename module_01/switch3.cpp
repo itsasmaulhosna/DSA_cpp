@@ -19,6 +19,8 @@ int main(){
         case 'u':
         cout<<"Vowel\n";
         break;
+        default:
+        cout<<"Consonant\n";
     }
     return 0;
 }
